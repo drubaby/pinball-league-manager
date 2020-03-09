@@ -1,0 +1,7 @@
+// This file is to document endpoints for crawling the old site
+
+root url: http://nepl.league.papa.org/
+
+Meet results:
+meetresults/<meet number>/<?>
+ex: meetResults/31/1
