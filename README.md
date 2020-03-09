@@ -11,3 +11,4 @@ To do!
 ## Set up dev env
 - Clone git repo
 - cd to repo directory and `bundle install`
+- start postgres and then run `rake db:setup` to load db schema
